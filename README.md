@@ -1,6 +1,12 @@
 # mini-project
 # Air Pollution Monitoring System (NO₂ and CO)
 
+## 👨‍💻 Team Members
+
+- Ishwar Garje (Project Lead)
+- Jay Jangam
+- Akash Misale
+
 ## 🌐 Description
 A real-time air quality monitoring system that fetches live NO₂ and CO data using the AQICN API and visualizes it using Streamlit and QGIS.
 
@@ -20,4 +26,3 @@ A real-time air quality monitoring system that fetches live NO₂ and CO data us
 - Plotly
 - GeoPandas, pandas, requests
 
-## 📁 Project Structure
